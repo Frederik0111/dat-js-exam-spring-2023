@@ -1,0 +1,36 @@
+Envo-2:
+1. Lav en liste og en funktion der, ud fra formen på hjemmesiden, kan lave et nyt athlet-objekt og gemme den i listen.
+2. Vis de 3 hurtigste athleter på hjemmesiden.
+3. Vis kun athleter med en topfart mellem 50 og 60.
+
+
+Envo-3:
+1. Importer "data.js" i script-filen. Gem listen i en variabel.
+2. Vis alle events på hjemmesiden sorteret efter tidligste dato øverst.
+3. Filtrer, således kun events i sjette måned bliver vist på hjemmesiden.
+
+
+Envo-5:
+1. Fetch "runners.json" i script og gem det i en variabel.
+2. Vis de 3 hurtigste runners på podiet på hjemmesiden og deres resultater med 2 decimaltal.
+3. Vis de næste 7 hurtigste runners efter 3. pladsen i runner-ups listen på hjemmesiden med deres resultater (2 decimaltal igen)
+
+
+Envo-7:
+1. Lav en tom liste og en funktion, der kan tilføje rum til listen gennem formen.
+2. Vis rummene på hjemmesiden. Længde, vidde og areal skal fremgå.
+3. Lav EN funktion, der kan sortere rummene efter vidde, længde og areal. Opdater visningen dernæst. (Kan testes i konsollen på browseren)
+
+
+Envo-8:
+1. Lav en funktion, der henter "posts.json" ind i script.js. Gem listen i en variabel.
+2. Vis posts på hjemmesiden sorteret efter flest likes.
+3. Tilføj 2 knapper, hhv. "upvote" og "downvote" i hver post, og lav funktioner til disse knapper, der hhv. tilføjer eller fjerner et like fra en post. Opdater visningen af listen på hjemmesiden dernest (stadig sorteret efter flest likes)
+
+
+Envo-10:
+1. Fetch "posts.json" i script.js. Gem listen i en variabel.
+2. Vis kun posts, der er publiceret (true) på hjemmesiden.
+3. Hvis "Show all posts" checkbox er krydset, så vis samtlige posts på hjemmesiden. Er den slået fra, vises kun publiceret posts.
+
+
