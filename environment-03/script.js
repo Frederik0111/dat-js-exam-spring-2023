@@ -2,7 +2,7 @@
 
 import { events } from "./data.js";
 
-// Rest of the code remains the same...
+// 
 const sortedEvents = events.sort((a, b) => new Date(a.date) - new Date(b.date));
 const filteredEvents = sortedEvents.filter((event) => {
   const eventDate = new Date(event.date);
