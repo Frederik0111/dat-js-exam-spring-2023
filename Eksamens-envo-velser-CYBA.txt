@@ -25,6 +25,7 @@ Envo-5:
 3. Vis de næste 7 hurtigste runners efter 3. pladsen i runner-ups listen på hjemmesiden med deres resultater (2 decimaltal igen)
 
 Envo-6:
+1. samme som 5?
 
 Envo-7:
 1. Lav en tom liste og en funktion, der kan tilføje rum til listen gennem formen.
@@ -38,6 +39,9 @@ Envo-8:
 3. Tilføj 2 knapper, hhv. "upvote" og "downvote" i hver post, og lav funktioner til disse knapper, der hhv. tilføjer eller fjerner et like fra en post. Opdater visningen af listen på hjemmesiden dernest (stadig sorteret efter flest likes)
 
 Envo-9:
+1. fetch posts.json.
+2. vis posts.
+3. sorting høj til lav og vice versa.
 
 Envo-10:
 1. Fetch "posts.json" i script.js. Gem listen i en variabel.
@@ -45,7 +49,10 @@ Envo-10:
 3. Hvis "Show all posts" checkbox er krydset, så vis samtlige posts på hjemmesiden. Er den slået fra, vises kun publiceret posts.
 
 Envo-11:
+1.
 
 Envo-12:
+1.
 
 Envo-13:
+1.
