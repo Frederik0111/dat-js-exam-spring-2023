@@ -49,10 +49,12 @@ Envo-10:
 3. Hvis "Show all posts" checkbox er krydset, så vis samtlige posts på hjemmesiden. Er den slået fra, vises kun publiceret posts.
 
 Envo-11:
-1.
+1. fetch.
+2. show posts.
 
 Envo-12:
-1.
+1. fetch postnumre.json.
+2. auto insert by.
 
 Envo-13:
-1.
+1. 
